@@ -1,1 +1,1 @@
-kubeflow/tf-mnist-with-summaries:latest
+alpine:3.10
