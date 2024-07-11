@@ -1,1 +1,1 @@
-alpine:3.10
+ kubeflow/tf-dist-mnist-test:latest
